@@ -1,0 +1,5 @@
+
+TWITTER_API_KEY="Your key"
+TWITTER_API_KEY_SECRET="Your_app_key_secret"
+TWITTER_ACCESS_TOKEN="Your_app_access_token"
+WITTER_ACCESS_TOKEN_SECRET="Your_app_access_token_secret"
